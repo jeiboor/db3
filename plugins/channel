@@ -1,0 +1,5 @@
+local function make_menu()
+local rw1_texts = {'channel'}
+local rows ={kmakerow(rw1_texts)}
+return kmake(rows)
+end
