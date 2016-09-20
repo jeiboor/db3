@@ -14,7 +14,7 @@
 do
 
 function run(msg, matches)
-  return 'Televirus v1.'
+  return 'TeleDarkSide BOT\nChannel : @DarkSideTm'
 end
 
 return {
